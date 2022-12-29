@@ -1,15 +1,10 @@
 ### Olá👋
 
 
-
-- 🔭 hoje eu estou trabalhando como suporte para prodata.
-- 🌱 estou cursando Eng de Soft.
-- ⚡ eu amo estudar jogar e estar com minha familia.
-
 <div align="center">
   <a href="https://github.com/wendhelv">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wendhelv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendhelv&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wendhelv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendhelv&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
