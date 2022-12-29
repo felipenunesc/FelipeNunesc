@@ -1,4 +1,7 @@
 ## Olá! Eu sou Felipe Nunes 👋
+- 🔭 hoje eu estou trabalhando como suporte no previPalmas.
+- 🌱 estou cursando Sistema de Informação.
+- ⚡ eu amo estudar jogar e estar com minha familia.
 
 <div align="center">
   <a href="https://github.com/Feliipe014">
